@@ -18,3 +18,5 @@
 
 7. Мої роботи по Python
    https://github.com/m1guelten/python_works
+
+8. В папці courses я розмістив сертифікати пройдених мною курсів
